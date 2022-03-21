@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e489a364f0bcb44c8ce009b708a42cd, type: 3}
+  m_Name: Metal Play Audio Effect - Bullet Impact
+  m_EditorClassIdentifier: 
+  AudioSourcePrefab: {fileID: 556609876619741802, guid: f5393af7b9f343445bbabf443c775fa4,
+    type: 3}
+  AudioClips:
+  - {fileID: 8300000, guid: 65493c5689070224995f15bb3a21abf3, type: 3}
+  - {fileID: 8300000, guid: af2e4937c94b29c4d8c58247ef934b04, type: 3}
+  - {fileID: 8300000, guid: a43a6ef1d1af9ee4aab0a76181d28763, type: 3}
+  VolumeRange: {x: 0.5, y: 0.75}

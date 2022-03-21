@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e489a364f0bcb44c8ce009b708a42cd, type: 3}
+  m_Name: Generic Play Audio - Bullet Impact
+  m_EditorClassIdentifier: 
+  AudioSourcePrefab: {fileID: 556609876619741802, guid: f5393af7b9f343445bbabf443c775fa4,
+    type: 3}
+  AudioClips:
+  - {fileID: 8300000, guid: c0f39f70dfb1b88478f276d68a20803e, type: 3}
+  VolumeRange: {x: 0.5, y: 0.75}
